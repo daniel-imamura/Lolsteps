@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "muHpAgivOWhaG6c4LLmMMk0P2Hj1vDAVi5UMMS5uI/8=",
+  "Source": "lolsteps_api",
+  "BasePath": "_content/lolsteps_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
